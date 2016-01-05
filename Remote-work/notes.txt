@@ -1,0 +1,5 @@
+1.Research (ruby docs, stack overflow, google)
+2.Experiment(test)
+3.Decompose (breaking up problems into individual elements)
+
+
