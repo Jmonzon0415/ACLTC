@@ -28,6 +28,8 @@ def delete_complete_tasks
       task.complete
     end
   end
+
+
 def sort_by_priority
    priority_list = []
     @tasks.each do |task|
