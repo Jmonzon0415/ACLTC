@@ -24,7 +24,9 @@ end
 my_tang = Tangerine.new 
 
 
-my_tang.age = 6
+my_tang.age = 3
 
 
 my_tang.rotten?
+
+p my_tang
